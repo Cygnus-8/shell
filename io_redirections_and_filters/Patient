@@ -1,0 +1,7 @@
+We will skip the first technique since we know how to do it and it lacks the convenience
+of the other two. From within our own shell session, the su command allows us to assume
+the identity of another user and either start a new shell session with that user's ID,
+or to issue a single command as that user. The sudo command allows an administrat
+
+
+indicate that events have passed a point of no return.
