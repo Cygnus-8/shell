@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -ds ':' | sort
+cut --delimiter=':' -f=6 -s etc/passwd | sort
