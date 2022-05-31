@@ -5,7 +5,7 @@ printf "school file exists\n"
 if [ -s school ]; then 
 printf "school is not empty\n"
 else 
-printf "school is empty\n"
+printf "school file is empty\n"
 fi
 else 
 printf "school file does not exist\n"
