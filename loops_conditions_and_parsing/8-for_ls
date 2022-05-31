@@ -1,4 +1,4 @@
-#!/usr/bin/even bash
+#!/usr/bin/env bash
 # For Loop with ls
 list=$(ls)
 for i in list
