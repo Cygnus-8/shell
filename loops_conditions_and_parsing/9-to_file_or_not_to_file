@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # Description of a file
 if [ -e school ]; then
 printf "school file exists\n"
