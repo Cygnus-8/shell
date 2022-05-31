@@ -10,5 +10,6 @@ do
 printf "%s$k\n"
 ((k++))
 done
+k=1
 ((i++))
 done 
