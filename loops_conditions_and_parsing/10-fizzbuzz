@@ -12,4 +12,5 @@ printf "Buzz\n"
 else 
 printf "%s$i\n"
 fi
+((i++))
 done
