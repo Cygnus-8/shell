@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Read and cut script
+list="/etc/passwd"
+while read list
+do
+echo "$list"|cut -d ":" -f 1,3,6
+done
