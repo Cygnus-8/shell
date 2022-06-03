@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Easy way to kill a script
+
+pkill -f "4-to_infinity_and_beyond"
